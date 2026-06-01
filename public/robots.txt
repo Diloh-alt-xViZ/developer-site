@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dillanbundo.co.zw/sitemap.xml

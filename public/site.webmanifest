@@ -1,0 +1,16 @@
+{
+  "name": "Dillan Bundo Portfolio",
+  "short_name": "Dillan Bundo",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#05070f",
+  "theme_color": "#05070f",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
